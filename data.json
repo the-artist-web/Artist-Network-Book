@@ -1,0 +1,1278 @@
+{
+  "Homepage": [
+      {
+        "image": "./src/assets/image/html ( 2 ).png",
+        "titleCard": "HTML",
+        "description": "HTML (Hypertext Markup Language) هو اللغة الأساسية لبناء صفحات الويب. يُستخدم لوصف هيكل وتصميم صفحات الويب باستخدام الوسوم والعناصر.",
+        "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+      },
+      {
+        "image": "./src/assets/image/css ( 3 ).png",
+        "titleCard": "CSS",
+        "description": "CSS (Cascading Style Sheets) هو لغة تصميم تُستخدم لتحديد مظهر وتصميم صفحات الويب. يمكن من خلاله التحكم بالألوان، والخطوط، والتباعد، وتخطيط الصفحة.",
+        "lang": "<i class='fa-solid fa-circle circle-purple'></i> CSS"
+      },
+      {
+        "image": "./src/assets/image/bootstrap ( 4 ).png",
+        "titleCard": "Bootstrap",
+        "description": "Bootstrap هو إطار عمل مجاني ومفتوح المصدر لتصميم مواقع الويب وتطبيقات الويب. يوفر مجموعة من الأدوات والقوالب لتصميم سريع ومتجاوب مع أجهزة متعددة.",
+        "lang": "<i class='fa-solid fa-circle circle-violate'></i> Bootstrap"
+      },
+      {
+        "image": "./src/assets/image/javaScript ( 5 ).png",
+        "titleCard": "JavaScript",
+        "description": "JavaScript هي لغة برمجة تُستخدم لتطوير صفحات الويب التفاعلية. يُمكن من خلالها التحكم في محتوى الصفحة، وإنشاء الرسوم المتحركة، والتفاعل مع المستخدم.",
+        "lang": "<i class='fa-solid fa-circle circle-yellow'></i> JavaScript"
+      },
+      {
+        "image": "./src/assets/image/oop ( 6 ).png",
+        "titleCard": "OOP",
+        "description": "البرمجة الكائنية التوجه (OOP) هي نموذج برمجة يعتمد على مفهوم 'الكائنات'. تُستخدم لتنظيم الكود بطريقة تسهل إدارته وإعادة استخدامه.",
+        "lang": "<i class='fa-solid fa-circle circle-white'></i> OOP"
+      },
+      {
+        "image": "./src/assets/image/type script ( 7 ).png",
+        "titleCard": "TypeScript",
+        "description": "TypeScript هو امتداد لـ JavaScript يضيف أنواعًا ثابتة. يساعد في الكشف عن الأخطاء في وقت الترجمة وتحسين تجربة التطوير.",
+        "lang": "<i class='fa-solid fa-circle circle-light-blue'></i> TypeScript"
+      },
+      {
+        "image": "./src/assets/image/vue.js ( 10 ).png",
+        "titleCard": "Vue.js",
+        "description": "Vue.js هو إطار عمل JavaScript لبناء واجهات المستخدم وتطبيقات الويب أحادية الصفحة. يركز على السهولة والبساطة في الاستخدام.",
+        "lang": "<i class='fa-solid fa-circle circle-green'></i> Vue"
+      },
+      {
+        "image": "./src/assets/image/react ( 9 ).png",
+        "titleCard": "React.js",
+        "description": "React.js هو مكتبة JavaScript لبناء واجهات المستخدم. يتيح إنشاء مكونات تفاعلية وقابلة لإعادة الاستخدام لتطوير تطبيقات الويب بسرعة وفعالية.",
+        "lang": "<i class='fa-solid fa-circle circle-light-blue'></i> React"
+      },
+      {
+        "image": "./src/assets/image/Angular ( 8 ).png",
+        "titleCard": "Angular",
+        "description": "Angular هو إطار عمل JavaScript مفتوح المصدر لبناء تطبيقات الويب. يوفر أدوات وميزات لبناء تطبيقات قوية ومتجاوبة مع قابلية التوسع.",
+        "lang": "<i class='fa-solid fa-circle circle-red'></i> Angular"
+      },
+      {
+        "image": "https://cdn-icons-png.flaticon.com/512/136/136525.png",
+        "titleCard": "JSON",
+        "description": "JSON (JavaScript Object Notation) هو صيغة خفيفة لتبادل البيانات. تُستخدم لتمثيل البيانات بطريقة يمكن قراءتها بواسطة البشر والآلات.",
+        "lang": "<i class='fa-solid fa-circle circle-green'></i> JSON"
+      },
+      {
+        "image": "https://img.icons8.com/ios-filled/50/000000/database-restore.png",
+        "titleCard": "API",
+        "description": "API (واجهة برمجة التطبيقات) هو مجموعة من التعريفات والبروتوكولات لبناء ودمج تطبيقات البرمجيات. يُتيح التواصل بين الأنظمة المختلفة.",
+        "lang": "<i class='fa-solid fa-circle circle-white'></i> API"
+      },
+      {
+        "image": "./src/assets/image/git ( 11 ).png",
+        "titleCard": "Git",
+        "description": "Git هو نظام لإدارة الإصدارات يستخدم لتتبع التغييرات في ملفات الكود. يتيح للمطورين العمل معًا بكفاءة ومزامنة التعديلات بسهولة.",
+        "lang": "<i class='fa-solid fa-circle circle-orange'></i> Git"
+      },
+      {
+        "image": "./src/assets/image/github ( 12 ).png",
+        "titleCard": "GitHub",
+        "description": "GitHub هو منصة لاستضافة المشاريع التي تستخدم Git. يتيح التعاون بين المطورين، ومشاركة الكود، وإدارة المشاريع بسهولة.",
+        "lang": "<i class='fa-solid fa-circle circle-black'></i> GitHub"
+      }
+  ],
+  "Display": [
+    {
+      "titlePage": "HTML",
+      "textContent": "HTML (Hypertext Markup Language) هو اللغة الأساسية لبناء صفحات الويب. يُستخدم لوصف هيكل وتصميم صفحات الويب باستخدام الوسوم والعناصر.",
+      "langGo": "CSS",
+      "cards": [
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "&lt;!DOCTYPE html&gt;",
+            "description": "يستخدم لتحديد نوع المستند وإصدار HTML المستخدم.",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "&lt;html&gt;",
+            "description": "يعتبر الجذر لكل وثيقة HTML. تتضمن السمة lang لتحديد لغة الوثيقة.",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "&lt;head&gt;",
+            "description": "يحتوي على معلومات وصفية (metadata) حول الوثيقة مثل الترميز، العنوان، الروابط للملفات الخارجية مثل CSS.",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "&lt;body&gt;",
+            "description": "يحتوي على محتوى الوثيقة الفعلي مثل النصوص، الصور، الروابط، النماذج، إلخ.",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "&lt;h1&gt; - &lt;h6&gt;",
+            "description": "تستخدم لإنشاء عناوين بأحجام مختلفة، من الأكبر (&lt;h1&gt;) إلى الأصغر (&lt;h6&gt;).",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "&lt;p&gt;",
+            "description": "يستخدم لإنشاء فقرات نصية.",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "&lt;a&gt;",
+            "description": "يستخدم لإنشاء روابط تشعبية. السمة href تحدد عنوان الرابط، وtarget='_blank' لفتح الرابط في نافذة جديدة، وrel لتعزيز الأمان.",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "&lt;img&gt;",
+            "description": "يستخدم لإدراج الصور. السمة src تحدد مصدر الصورة، وalt توفر وصفًا بديليًا للصورة.",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "&lt;ul&gt; &amp; &lt;ol&gt;",
+            "description": "تستخدم لإنشاء قوائم عناصر. &lt;ul&gt; لقوائم غير مرتبة، و&lt;ol&gt; لقوائم مرتبة، و&lt;li&gt; لعناصر القائمة.",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "&lt;table&gt;",
+            "description": "يستخدم لإنشاء الجداول. &lt;table&gt; لإنشاء الجدول، &lt;thead&gt; للرأس، &lt;tbody&gt; للجسم، &lt;tr&gt; للصفوف، و&lt;th&gt; و&lt;td&gt; للخلايا.",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "&lt;form&gt;",
+            "description": "يستخدم لإنشاء نماذج لإدخال البيانات.",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "&lt;input&gt;",
+            "description": "يستخدم لإنشاء حقول إدخال متنوعة مثل النص، البريد الإلكتروني، كلمات المرور، الملفات، الأرقام، النطاقات، التواريخ، الأوقات، البحث، مربعات الاختيار، أزرار الراديو، والقوائم المنسدلة.",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "&lt;button&gt;",
+            "description": "يستخدم لإنشاء أزرار.",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "&lt;textarea&gt;",
+            "description": "يستخدم لإنشاء منطقة نصية.",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "&lt;select&gt;",
+            "description": "يستخدم لإنشاء قائمة منسدلة.",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "&lt;video&gt;",
+            "description": "يستخدم لإدراج فيديوهات.",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "&lt;audio&gt;",
+            "description": "يستخدم لإدراج ملفات صوتية.",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "&lt;iframe&gt;",
+            "description": "يستخدم لإدراج إطار مضمن.",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "&lt;svg&gt;",
+            "description": "يستخدم لإنشاء رسومات SVG (Scalable Vector Graphics).",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "&lt;canvas&gt;",
+            "description": "يستخدم لإنشاء رسومات ديناميكية باستخدام JavaScript.",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "السمات العالمية",
+            "description": "تتضمن السمات التي يمكن تطبيقها على معظم وسوم HTML مثل class، id، style، title، data-*، hidden، و tabindex.",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "الأحداث",
+            "description": "تتضمن السمات التي تستخدم لتحديد أحداث JavaScript مثل onclick، onchange، onmouseover، onmouseout، onkeydown، و onkeyup.",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "وسوم الـ Semantic HTML",
+            "description": "تستخدم لتعزيز دلالة محتوى الصفحة وتشمل وسوم مثل &lt;header&gt;، &lt;footer&gt;، &lt;section&gt;، &lt;article&gt;، &lt;aside&gt;، و &lt;main&gt;.",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "وسوم التضمين",
+            "description": "تشمل وسوم مثل &lt;embed&gt;، &lt;object&gt;، و &lt;param&gt; لتضمين أنواع مختلفة من المحتوى والوسائط.",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "وسوم الروابط",
+            "description": "تشمل وسوم مثل &lt;link&gt; و &lt;base&gt; لتعريف العلاقات بين الوثيقة ومواردها الخارجية.",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "وسوم التعريف",
+            "description": "تشمل وسوم &lt;meta&gt; لتعريف معلومات وصفية حول الوثيقة مثل الترميز، الوصف، الكلمات الرئيسية، والمؤلف.",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "وسوم البرمجة",
+            "description": "تشمل وسوم مثل &lt;script&gt; و &lt;noscript&gt; لربط وتضمين شفرة JavaScript في صفحات الويب.",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "وسوم النماذج المتقدمة",
+            "description": "تشمل حقول إدخال متقدمة مثل البحث، الملفات، الأرقام، النطاقات، التواريخ، الأوقات، مربعات الاختيار، وأزرار الراديو.",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "&lt;html lang='ar'>",
+            "description": "يعتبر الجذر لكل وثيقة HTML. تتضمن السمة lang لتحديد لغة الوثيقة.",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "&lt;head> &lt;meta charset='UTF-8'><br> &lt;meta name='viewport' content='width=device-width, initial-scale=1.0'><br> &lt;title>عنوان الصفحة&lt;/title><br> &lt;link rel='stylesheet' href='styles.css'><br> </head>",
+            "description": "يحتوي على معلومات وصفية (metadata) حول الوثيقة مثل الترميز، العنوان، الروابط للملفات الخارجية مثل CSS.",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "&lta href='https://example.com' target='_blank' rel='noopener noreferrer'>زرني&lt;/a>",
+            "description": "يستخدم لإنشاء روابط تشعبية. السمة href تحدد عنوان الرابط، وtarget='_blank' لفتح الرابط في نافذة جديدة، وrel لتعزيز الأمان.",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "&lt;img src='path/to/image.jpg' alt='وصف للصورة' width='500' height='300'>",
+            "description": "يستخدم لإدراج الصور. السمة src تحدد مصدر الصورة، وalt توفر وصفًا بديليًا للصورة.",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "&lt;ul><br> &lt;li>عنصر قائمة 1&lt;/li><br> &lt;li>عنصر قائمة 2&lt;/li><br> &lt;li>عنصر قائمة 3&lt;/li><br> &lt;/ul>",
+            "description": "قائمة غير مرتبة",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "&lt;ol><br> &lt;li>عنصر قائمة 1&lt;/li><br> &lt;li>عنصر قائمة 2&lt;/li><br> &lt;li>عنصر قائمة 3&lt;/li><br> &lt;/ol>",
+            "description": "قائمة مرتبة",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "&lt;table><br> &lt;thead><br> &lt;tr><br> &lt;th>عنوان العمود 1&lt;/th><br> &lt;th>عنوان العمود 2&lt;/th><br> &lt;/tr><br> &lt;/thead><br> &lt;tbody><br> &lt;tr><br> &lt;td>خلية 1&lt;/td><br> &lt;td>خلية 2&lt;/td><br> &lt;/tr><br> &lt;tr><br> &lt;td>خلية 3&lt;/td><br> &lt;td>خلية 4&lt;/td><br> &lt;/tr><br> &lt;/tbody><br> &lt;/table>",
+            "description": "وسوم الجداول",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "&lt;label for='name'>الاسم:&lt;/label><br> &lt;input type='text' id='name' name='name' placeholder='أدخل اسمك' required>",
+            "description": "حقل النص",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "&lt;label for='email'>البريد الإلكتروني:&lt;/label><br> &lt;input type='email' id='email' name='email' placeholder='أدخل بريدك الإلكتروني' required>",
+            "description": "حقل البريد الإلكتروني",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "&lt;label for='message'>الرسالة:&lt;/label><br> &lt;textarea id='message' name='message' placeholder='اكتب رسالتك هنا' rows='4' required>&lt;/textarea>",
+            "description": "منطقة النص",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "&lt;button type='submit'>إرسال&lt;/button>",
+            "description": "زر الإرسال",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "&lt;button type='reset'>إعادة تعيين&lt;/button>",
+            "description": "زر إعادة التعيين",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "&lt;label for='subscribe'>اشترك في النشرة الإخبارية:&lt;/label><br> &lt;input type='checkbox' id='subscribe' name='subscribe' value='newsletter'>",
+            "description": "مربع اختيار",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "&lt;label for='male'>ذكر&lt;/label><br> &lt;input type='radio' id='male' name='gender' value='male'><br> &lt;label for='female'>أنثى</label><br> &lt;input type='radio' id='female' name='gender' value='female'>",
+            "description": "زر راديو",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "&lt;label for='options'>اختر خيار:&lt;/label><br> &lt;select id='options' name='options'><br> &lt;option value='1'>الخيار 1&lt;/option><br> &lt;option value='2'>الخيار 2&lt;/option><br> &lt;option value='3'>الخيار 3&lt;/option><br> &lt;/select>",
+            "description": "قائمة منسدلة",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "&lt;video width='320' height='240' controls><br> &lt;source src='movie.mp4' type='video/mp4'><br> متصفحك لا يدعم عنصر الفيديو.<br> &lt;/video>",
+            "description": "إدراج فيديو",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "&ltaudio controls><br> &ltsource src='audio.mp3' type='audio/mpeg'><br> متصفحك لا يدعم عنصر الصوت.<br> &lt;/audio>",
+            "description": "إدراج صوت",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "&lt;iframe src='https://www.example.com' width='600' height='400' frameborder='0' allowfullscreen>&lt;/iframe>",
+            "description": "إدراج إطار مضمن",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "&ltsvg width='100' height='100'><br> &ltcircle cx='50' cy='50' r='40' stroke='black' stroke-width='3' fill='red' /><br> &lt/svg>",
+            "description": "وسوم الأشكال الرسومية SVG (Scalable Vector Graphics)",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "&lt;canvas id='myCanvas' width='200' height='100' style='border:1px solid #000000;'><br> متصفحك لا يدعم عنصر canvas.<br> &lt;/canvas>",
+            "description": "Canvas",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "class",
+            "description": " لتعيين نمط CSS معين للعنصر.",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "id",
+            "description": " لتحديد هوية فريدة للعنصر.",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "style",
+            "description": "لتطبيق أنماط CSS مباشرة على العنصر.",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "title",
+            "description": "لإضافة تلميح يظهر عند تمرير الماوس فوق العنصر.",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "data-*",
+            "description": "لتخزين بيانات مخصصة في العنصر.",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "hidden",
+            "description": " لإخفاء العنصر.",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "tabindex",
+            "description": "لتحديد ترتيب التنقل عبر لوحة المفاتيح.",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "onclick",
+            "description": " يتم تشغيله عند النقر على العنصر.",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "onchange",
+            "description": "يتم تشغيله عند تغيير قيمة العنصر.",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "onmouseover",
+            "description": "يتم تشغيله عند تمرير الماوس فوق العنصر.",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "onmouseout",
+            "description": "يتم تشغيله عند إبعاد الماوس عن العنصر.",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "onkeydown",
+            "description": "يتم تشغيله عند الضغط على زر في لوحة المفاتيح.",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "onkeyup",
+            "description": "يتم تشغيله عند الإفراج عن زر في لوحة المفاتيح.",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "&lt;embed src='video.mp4' width='600' height='400'>",
+            "description": "وسوم التضمين",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "&lt;object data='file.pdf' type='application/pdf' width='600' height='400'><br> المستعرض لا يدعم عرض الملف.<br> &lt;/object>",
+            "description": "وسوم التضمين",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "&lt;object data='movie.swf' type='application/x-shockwave-flash' width='400' height='300'><br> &lt;param name='autoplay' value='true'><br> &lt;param name='loop' value='false'><br> &lt;/object>",
+            "description": "وسوم التضمين",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "&lt;link rel='stylesheet' href='styles.css'> &lt;link rel='icon' href='favicon.ico' type='image/x-icon'>",
+            "description": "وسوم الروابط",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "&lt;base href='https://example.com/''>",
+            "description": "وسوم الروابط",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "&lt;meta charset='UTF-8'> &lt;meta name='viewport' content='width=device-width, initial-scale=1.0'> &lt;meta name='description' content='وصف الموقع.''> &lt;meta name='keywords' content='HTML, CSS, JavaScript'> &lt;meta name='author' content='اسم المؤلف'>",
+            "description": "وسوم التعريف تستخدم هذه الوسوم لتعريف معلومات وصفية حول الوثيقة مثل الترميز، الوصف، الكلمات الرئيسية، والمؤلف.",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "&lt;script src='scripts.js'></script><br> &lt;script><br> document.addEventListener('DOMContentLoaded', function() {<br> console.log('الصفحة جاهزة.');<br> });<br> &lt;/script>",
+            "description": "وسوم البرمجة تستخدم هذه الوسوم لربط وتضمين شفرة JavaScript في صفحات الويب.",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "&lt;noscript><br> &lt;p>متصفحك لا يدعم JavaScript أو أن JavaScript معطلة.&lt;/p><br> &lt;/noscript>",
+            "description": "وسوم البرمجة تستخدم هذه الوسوم لربط وتضمين شفرة JavaScript في صفحات الويب.",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "&lt;label for='search'>بحث:&lt;/label><br> &lt;input type='search' id='search' name='search' placeholder='ابحث هنا'>",
+            "description": "حقل البحث",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "&lt;label for='file'>ارفع ملف:&lt;/label><br> &lt;input type='file' id='file' name='file'>",
+            "description": "حقل الملف",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "&lt;label for='quantity'>الكمية:&lt;/label><br> &lt;input type='number' id='quantity' name='quantity' min='1' max='10' step='1' value='1'>",
+            "description": "حقل الرقم",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "&lt;label for='range'>نطاق:&lt;/label><br> &lt;input type='range' id='range' name='range' min='0' max='100' step='10' value='50'>",
+            "description": "حقل النطاق",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "&lt;label for='date'>تاريخ:&lt;/label><br> &lt;input type='date' id='date' name='date'>",
+            "description": "حقل التاريخ",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "&lt;label for='time'>وقت:&lt;/label><br> &lt;input type='time' id='time' name='time'>",
+            "description": "حقل الوقت",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "header",
+            "description": "&lt;header><br> &lt;h1>عنوان الموقع</h1><br> &lt;nav><br> &lt;ul><br> &lt;li>&lt;a href='#home'>الرئيسية&lt;/a>&lt;/li><br> &lt;li>&lt;a href='#about'>حول&lt;/a>&lt;/li><br> &lt;li>&lt;a href='#contact'>اتصل بنا&lt;/a>&lt;/li><br> &lt;/ul><br> &lt;/nav><br> &lt;/header>",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "footer",
+            "description": "&lt;footer><br> &lt;p>&copy; 2024 موقعي. جميع الحقوق محفوظة.&lt;/p><br> &lt;/footer>",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "section",
+            "description": "&lt;section id='about'><br> &lt;h2>حول&lt;/h2><br> &lt;p>معلومات حول الموقع.&lt;/p><br> &lt;/section>",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "article",
+            "description": "&lt;article><br> &lt;h2>مقالة&lt;/h2><br> &lt;p>هذا نص داخل مقالة.&lt;/p><br> &lt;/article>",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "aside",
+            "description": "&lt;aside><br> &lt;h2>محتوى جانبي&lt;/h2><br> &lt;p>هذا نص داخل القسم الجانبي.&lt;/p><br> &lt;/aside>",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        },
+        {
+            "image": "./src/assets/image/html ( 2 ).png",
+            "titleCard": "main",
+            "description": "&lt;main><br> &lt;h1>المحتوى الرئيسي&lt;/h1><br> &lt;p>هذا هو المحتوى الرئيسي للموقع.&lt;/p><br> &lt;/main>",
+            "lang": "<i class='fa-solid fa-circle circle-orange'></i> HTML"
+        }
+      ]
+    },    
+    {
+      "titlePage": "CSS",
+      "textContent": "CSS (Cascading Style Sheets) هي لغة لتنسيق وتصميم صفحات الويب. تُستخدم لتحديد كيفية عرض مستندات HTML، مما يسمح بتطبيق أنماط متعددة مثل الألوان والخطوط والتخطيطات.",
+      "langGo": "Bootstrap",
+      "cards": [
+          {
+              "image": "./src/assets/image/css ( 3 ).png",
+              "titleCard": "",
+              "description": "",
+              "lang": "<i class='fa-solid fa-circle circle-purple'></i> CSS"
+          }
+      ]
+    },
+    {
+      "titlePage": "Gits",
+      "textContent": "Git هو نظام لإدارة الإصدارات يتبع التغييرات في الملفات البرمجية ويتيح التعاون بين المطورين. فيما يلي شرح للعناصر الأساسية المتعلقة بـ Git.",
+      "langGo": "GitHub",
+      "cards": [
+        {
+          "image": "./src/assets/image/git ( 11 ).png",
+          "titleCard": "git init",
+          "description": "Git هو نظام توزيع لإدارة الإصدارات يتتبع التعديلات في ملفات الكود المصدر. يتميز بكونه مفتوح المصدر وسريع وسهل الاستخدام في المشاريع الفردية والجماعية.",
+          "lang": "<i class='fa-solid fa-circle circle-orange'></i> Git"
+        },
+        {
+          "image": "./src/assets/image/git ( 11 ).png",
+          "titleCard": "Visit [Git Official](https://git-scm.com/) for installation instructions.",
+          "description": "يمكن تثبيت Git على أنظمة التشغيل المختلفة مثل Windows، macOS، وLinux. قم بزيارة الموقع الرسمي لـ Git للحصول على أحدث الإصدارات والإرشادات.",
+          "lang": "<i class='fa-solid fa-circle circle-orange'></i> Git"
+        },
+        {
+          "image": "./src/assets/image/git ( 11 ).png",
+          "titleCard": "git add, git commit, git push",
+          "description": "تتضمن الأوامر الأساسية لـ Git: `git init` لبدء مستودع جديد، `git add <file>` لإضافة ملفات إلى منطقة الانتظار، `git commit -m \"message\"` لتأكيد التغييرات، و `git push` لدفع التغييرات إلى مستودع بعيد.",
+          "lang": "<i class='fa-solid fa-circle circle-orange'></i> Git"
+        },
+        {
+          "image": "./src/assets/image/git ( 11 ).png",
+          "titleCard": "git branch, git checkout",
+          "description": "تسمح فروع Git بفصل العمل إلى مسارات مختلفة داخل نفس المستودع. يمكنك إنشاء فرع جديد والانتقال إليه باستخدام الأوامر: `git branch <branch-name>` لإنشاء فرع جديد، و `git checkout <branch-name>` للتبديل إلى الفرع الجديد.",
+          "lang": "<i class='fa-solid fa-circle circle-orange'></i> Git"
+        },
+        {
+          "image": "./src/assets/image/git ( 11 ).png",
+          "titleCard": "git merge",
+          "description": "لدمج التغييرات من فرع إلى آخر، استخدم الأمر: `git merge <branch-name>` لدمج الفرع المحدد.",
+          "lang": "<i class='fa-solid fa-circle circle-orange'></i> Git"
+        },
+        {
+          "image": "./src/assets/image/git ( 11 ).png",
+          "titleCard": "git clone, git remote add",
+          "description": "للتعامل مع مستودعات بعيدة، استخدم الأوامر: `git clone <repository-url>` لاستنساخ مستودع، و `git remote add <name> <url>` لإضافة مستودع بعيد جديد.",
+          "lang": "<i class='fa-solid fa-circle circle-orange'></i> Git"
+        },
+        {
+          "image": "./src/assets/image/git ( 11 ).png",
+          "titleCard": "git status, git diff, git log",
+          "description": "للتحقق من حالة الملفات ومقارنة التغييرات: `git status` لعرض حالة الملفات، و `git diff` لمقارنة التغييرات، و `git log` لعرض سجل التغييرات.",
+          "lang": "<i class='fa-solid fa-circle circle-orange'></i> Git"
+        },
+        {
+          "image": "./src/assets/image/git ( 11 ).png",
+          "titleCard": "Visit resources for learning Git.",
+          "description": "تعلم Git من خلال الموارد التالية: [Pro Git Book](https://git-scm.com/book/en/v2)، [GitHub Learning Lab](https://lab.github.com/)، و [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials).",
+          "lang": "<i class='fa-solid fa-circle circle-orange'></i> Git"
+        },
+        {
+          "image": "./src/assets/image/git ( 11 ).png",
+          "titleCard": "Follow best practices for using Git.",
+          "description": "نصائح للحفاظ على سير العمل سلسًا: كتابة رسائل التزام واضحة، دمج التغييرات بانتظام، وحل التعارضات بسرعة.",
+          "lang": "<i class='fa-solid fa-circle circle-orange'></i> Git"
+        },
+        {
+          "image": "./src/assets/image/git ( 11 ).png",
+          "titleCard": "git tag, git stash",
+          "description": "استخدام Git لتحديد النسخ والنسخ الاحتياطي والتخزين. استخدم `git tag` لإضافة علامات للإصدارات، و `git stash` لتخزين التغييرات غير المؤكدة.",
+          "lang": "<i class='fa-solid fa-circle circle-orange'></i> Git"
+        },
+        {
+          "image": "./src/assets/image/git ( 11 ).png",
+          "titleCard": "git mergetool",
+          "description": "كيفية حل التعارضات أثناء الدمج والتأكيد باستخدام أداة الدمج.",
+          "lang": "<i class='fa-solid fa-circle circle-orange'></i> Git"
+        },
+        {
+          "image": "./src/assets/image/git ( 11 ).png",
+          "titleCard": "Configure CI/CD",
+          "description": "تكامل Git مع أدوات التكامل المستمر والتسليم المستمر مثل Jenkins وGitLab CI. تكوين ملفات `.gitlab-ci.yml` و`.github/workflows`.",
+          "lang": "<i class='fa-solid fa-circle circle-orange'></i> Git"
+        },
+        {
+          "image": "./src/assets/image/git ( 11 ).png",
+          "titleCard": "git lfs",
+          "description": "إدارة المستودعات الكبيرة باستخدام Git Large File Storage (LFS) للتعامل مع الملفات الكبيرة دون التأثير على أداء المستودع.",
+          "lang": "<i class='fa-solid fa-circle circle-orange'></i> Git"
+        },
+        {
+          "image": "./src/assets/image/git ( 11 ).png",
+          "titleCard": "git config",
+          "description": "تخصيص إعدادات Git الخاصة بالمستخدم والمستودع باستخدام أوامر مثل `git config --global user.name \"Your Name\"` و `git config --global user.email \"you@example.com\"`.",
+          "lang": "<i class='fa-solid fa-circle circle-orange'></i> Git"
+        },
+        {
+          "image": "./src/assets/image/git ( 11 ).png",
+          "titleCard": "git reflog",
+          "description": "استعراض التغييرات عبر الأوامر المتقدمة مثل `git reflog` لعرض سجل النشاط.",
+          "lang": "<i class='fa-solid fa-circle circle-orange'></i> Git"
+        }
+      ]
+    },    
+    {
+      "titlePage": "Github",
+      "textContent": "GitHub هو منصة لاستضافة المشاريع التي تستخدم Git. يتيح التعاون بين المطورين، ومشاركة الكود، وإدارة المشاريع بسهولة. يوفر GitHub العديد من الأدوات والميزات التي تعزز من تجربة إدارة المشاريع وتساعد في تحسين سير العمل.",
+      "langGo": "",
+      "cards": [
+        {
+          "image": "./src/assets/image/github ( 12 ).png",
+          "titleCard": "Create a Repository",
+          "description": "لإنشاء مستودع جديد على GitHub، انتقل إلى صفحتك الرئيسية، واضغط على زر 'New' في قسم المستودعات. أدخل اسم المستودع وأي إعدادات ضرورية، ثم اضغط على 'Create repository'.",
+          "lang": "<i class='fa-solid fa-circle circle-white'></i> GitHub"
+        },
+        {
+          "image": "./src/assets/image/github ( 12 ).png",
+          "titleCard": "Clone a Repository",
+          "description": "لاستنساخ مستودع موجود إلى جهازك المحلي، استخدم الأمر: `git clone <repository-url>`. يمكنك العثور على عنوان URL في صفحة المستودع على GitHub.",
+          "lang": "<i class='fa-solid fa-circle circle-white'></i> GitHub"
+        },
+        {
+          "image": "./src/assets/image/github ( 12 ).png",
+          "titleCard": "Push Changes",
+          "description": "لدفع التغييرات من جهازك المحلي إلى GitHub، استخدم الأوامر التالية: `git add <file>`, `git commit -m \"message\"`, و `git push`.",
+          "lang": "<i class='fa-solid fa-circle circle-white'></i> GitHub"
+        },
+        {
+          "image": "./src/assets/image/github ( 12 ).png",
+          "titleCard": "Create a Pull Request",
+          "description": "لدمج التغييرات من فرع إلى آخر، اذهب إلى صفحة المستودع على GitHub، وانتقل إلى قسم 'Pull Requests'، ثم اضغط على 'New Pull Request'. اختر الفرع الذي تريد دمجه، واضغط على 'Create Pull Request'.",
+          "lang": "<i class='fa-solid fa-circle circle-white'></i> GitHub"
+        },
+        {
+          "image": "./src/assets/image/github ( 12 ).png",
+          "titleCard": "Review a Pull Request",
+          "description": "لمراجعة طلب دمج، انتقل إلى قسم 'Pull Requests'، اختر الطلب الذي ترغب في مراجعته، واطلع على التغييرات. يمكنك إضافة تعليقات ودمج الطلب إذا كان جاهزًا.",
+          "lang": "<i class='fa-solid fa-circle circle-white'></i> GitHub"
+        },
+        {
+          "image": "./src/assets/image/github ( 12 ).png",
+          "titleCard": "Create an Issue",
+          "description": "لإنشاء مشكلة جديدة أو طلب ميزة، انتقل إلى قسم 'Issues' في صفحة المستودع، واضغط على 'New Issue'. املأ التفاصيل المطلوبة، ثم اضغط على 'Submit new issue'.",
+          "lang": "<i class='fa-solid fa-circle circle-white'></i> GitHub"
+        },
+        {
+          "image": "./src/assets/image/github ( 12 ).png",
+          "titleCard": "Use GitHub Actions",
+          "description": "لتنفيذ عمليات تكامل مستمر وتسليم مستمر (CI/CD)، يمكنك استخدام GitHub Actions. اذهب إلى قسم 'Actions' في صفحة المستودع، واضغط على 'New workflow' لإنشاء تدفق عمل جديد.",
+          "lang": "<i class='fa-solid fa-circle circle-white'></i> GitHub"
+        },
+        {
+          "image": "./src/assets/image/github ( 12 ).png",
+          "titleCard": "Explore GitHub Marketplace",
+          "description": "استكشف GitHub Marketplace للحصول على أدوات إضافية وملحقات لتحسين سير عملك. يمكنك العثور على الأدوات المتعلقة بالأمان، التكامل، وتحسين الأداء.",
+          "lang": "<i class='fa-solid fa-circle circle-white'></i> GitHub"
+        },
+        {
+          "image": "./src/assets/image/github ( 12 ).png",
+          "titleCard": "Manage Repository Settings",
+          "description": "يمكنك إدارة إعدادات المستودع مثل الأذونات، الأمن، والإعدادات العامة من خلال الانتقال إلى قسم 'Settings' في صفحة المستودع.",
+          "lang": "<i class='fa-solid fa-circle circle-white'></i> GitHub"
+        },
+        {
+          "image": "./src/assets/image/github ( 12 ).png",
+          "titleCard": "Fork a Repository",
+          "description": "لعمل نسخة من مستودع موجود تحت حسابك، استخدم زر 'Fork' في أعلى صفحة المستودع. يمكنك التعديل على النسخة الخاصة بك وإرسال طلب دمج للمستودع الأصلي.",
+          "lang": "<i class='fa-solid fa-circle circle-white'></i> GitHub"
+        },
+        {
+          "image": "./src/assets/image/github ( 12 ).png",
+          "titleCard": "Create a GitHub Pages Site",
+          "description": "لإنشاء موقع ويب من مستودع GitHub، استخدم GitHub Pages. اذهب إلى قسم 'Settings' في المستودع، ثم إلى 'Pages'، واختر الفرع الذي يحتوي على الملفات التي تريد عرضها.",
+          "lang": "<i class='fa-solid fa-circle circle-white'></i> GitHub"
+        },
+        {
+          "image": "./src/assets/image/github ( 12 ).png",
+          "titleCard": "Learn GitHub from GitHub Learning Lab",
+          "description": "تعلم كيفية استخدام GitHub بفعالية من خلال GitHub Learning Lab. يوفر مجموعة من الدروس التفاعلية لتعلم أساسيات GitHub وتطوير مهاراتك.",
+          "lang": "<i class='fa-solid fa-circle circle-white'></i> GitHub"
+        }
+      ]
+    }    
+  ],
+  "SidePages": [
+    {
+      "titlePage": "اسماء الصفحات الرئيسيه",
+      "cards": [
+        {
+          "titleCard": "Index.Html",
+          "description": "صفحه Html",
+          "linkWebsite": ""
+        },
+        {
+          "titleCard": "Styles.Css",
+          "description": "صفحه Css",
+          "linkWebsite": ""
+        },
+        {
+          "titleCard": "Main.Js",
+          "description": "صفحه Java Script",
+          "linkWebsite": ""
+        },
+        {
+          "titleCard": "Text.Txt",
+          "description": "صفحه لكتابه ال Text",
+          "linkWebsite": ""
+        },
+        {
+          "titleCard": "Style-Guide.Md",
+          "description": "يوضع بها الاحجام و الالوان و كل شيء خاص بالموقع به علاقه بي Css",
+          "linkWebsite": ""
+        },
+        {
+          "titleCard": "data.json",
+          "description": "يكتب بها اكواد json",
+          "linkWebsite": ""
+        },
+        {
+          "titleCard": "App.Config",
+          "description": "ملف تكوين تطبيق، يحتوي على إعدادات التطبيق",
+          "linkWebsite": ""
+        },
+        {
+          "titleCard": "README.Md",
+          "description": "ملف قراءة موجه للمطورين والمستخدمين، يحتوي على معلومات حول المشروع",
+          "linkWebsite": ""
+        },
+        {
+          "titleCard": "Server.Rb",
+          "description": "ملف تكوين خادم Ruby on Rails",
+          "linkWebsite": ""
+        },
+        {
+          "titleCard": "Main.Server.Js",
+          "description": "ملف خادم JavaScript، يستخدم في إعدادات Node.js",
+          "linkWebsite": ""
+        },
+        {
+          "titleCard": "Database.SQL",
+          "description": "ملف يحتوي على استعلامات SQL لإنشاء أو إدارة قاعدة البيانات",
+          "linkWebsite": ""
+        },
+        {
+          "titleCard": "Routes.Rb",
+          "description": "ملف تحديد مسارات التطبيق في Ruby on Rails",
+          "linkWebsite": ""
+        },
+        {
+          "titleCard": "Dockerfile",
+          "description": "ملف تكوين Docker لبناء صورة حاوية",
+          "linkWebsite": ""
+        },
+        {
+          "titleCard": "Webpack.Config.Js",
+          "description": "ملف تكوين Webpack لإدارة الحزم وتوزيع الأكواد",
+          "linkWebsite": ""
+        },
+        {
+          "titleCard": "tsconfig.json",
+          "description": "ملف تكوين TypeScript",
+          "linkWebsite": ""
+        },
+        {
+          "titleCard": "Gruntfile.Js",
+          "description": "ملف تكوين Grunt لأتمتة المهام",
+          "linkWebsite": ""
+        },
+        {
+          "titleCard": "Gulpfile.Js",
+          "description": "ملف تكوين Gulp لأتمتة المهام",
+          "linkWebsite": ""
+        },
+        {
+          "titleCard": "package.json",
+          "description": "ملف تكوين npm، يحتوي على معلومات حول الحزم والإعدادات",
+          "linkWebsite": ""
+        },
+        {
+          "titleCard": "bower.json",
+          "description": "ملف تكوين Bower لإدارة الحزم",
+          "linkWebsite": ""
+        },
+        {
+          "titleCard": "LICENSE",
+          "description": "ملف يحتوي على معلومات الترخيص الخاصة بالمشروع",
+          "linkWebsite": ""
+        },
+        {
+          "titleCard": "CHANGELOG.Md",
+          "description": "ملف يحتوي على سجل التغييرات والإصدارات",
+          "linkWebsite": ""
+        }
+      ]
+    },
+    {
+      "titlePage": "اختصارات فاجوال ستوديو",
+      "cards": [
+        {
+          "titleCard": "! + Control",
+          "description": "يكتب اكواد Html الاساسيه",
+          "linkWebsite": ""
+        },
+        {
+          "titleCard": "Ul > Li * 10",
+          "description": "يكتب 10 اسطر من Ul بداخلها Li",
+          "linkWebsite": ""
+        },
+        {
+          "titleCard": "Ul > Li",
+          "description": "هنا بقوله حطلي ال Li جوا ال Ul",
+          "linkWebsite": ""
+        },
+        {
+          "titleCard": "Control + ظ",
+          "description": "تحول السطر الي تعليق",
+          "linkWebsite": ""
+        },
+        {
+          "titleCard": "Control + Z",
+          "description": "اذا حذفت شي تعيده",
+          "linkWebsite": ""
+        },
+        {
+          "titleCard": "Control + Shift + K",
+          "description": "لو عاوز احذف سطر معين من الكود",
+          "linkWebsite": ""
+        },
+        {
+          "titleCard": "Control + Shift + F",
+          "description": "تستخدم في البحث عن كود معين",
+          "linkWebsite": ""
+        },
+        {
+          "titleCard": "Shift + Alt + F",
+          "description": "تستخدم في تنظيم الاكواد",
+          "linkWebsite": ""
+        },
+        {
+          "titleCard": "Alt",
+          "description": "تستخدم في نقل الاسطر بسهوله",
+          "linkWebsite": ""
+        },
+        {
+          "titleCard": "Home",
+          "description": "بيخليني في اول السطر",
+          "linkWebsite": ""
+        },
+        {
+          "titleCard": "End",
+          "description": "بيخليني في اخر السطر",
+          "linkWebsite": ""
+        },
+        {
+          "titleCard": "Tab",
+          "description": "تجعل الاكواد تطلع قودام",
+          "linkWebsite": ""
+        },
+        {
+          "titleCard": "Shift + Tab",
+          "description": "ترجع الاكواد الي الوراء",
+          "linkWebsite": ""
+        },
+        {
+          "titleCard": "Control + C",
+          "description": "نسخ النص المحدد",
+          "linkWebsite": ""
+        },
+        {
+          "titleCard": "Control + V",
+          "description": "لصق النص المنسوخ",
+          "linkWebsite": ""
+        },
+        {
+          "titleCard": "Control + X",
+          "description": "قص النص المحدد",
+          "linkWebsite": ""
+        },
+        {
+          "titleCard": "Control + A",
+          "description": "تحديد كل النصوص",
+          "linkWebsite": ""
+        },
+        {
+          "titleCard": "Control + F",
+          "description": "فتح مربع البحث",
+          "linkWebsite": ""
+        },
+        {
+          "titleCard": "Control + H",
+          "description": "فتح مربع الاستبدال",
+          "linkWebsite": ""
+        },
+        {
+          "titleCard": "F12",
+          "description": "الانتقال إلى تعريف العنصر",
+          "linkWebsite": ""
+        },
+        {
+          "titleCard": "Control + .",
+          "description": "عرض قائمة التصحيحات المقترحة",
+          "linkWebsite": ""
+        },
+        {
+          "titleCard": "Control + Shift + B",
+          "description": "بناء المشروع",
+          "linkWebsite": ""
+        },
+        {
+          "titleCard": "F5",
+          "description": "تشغيل التصحيح (Debug)",
+          "linkWebsite": ""
+        },
+        {
+          "titleCard": "Control + F5",
+          "description": "تشغيل بدون تصحيح (Run)",
+          "linkWebsite": ""
+        },
+        {
+          "titleCard": "Control + Shift + S",
+          "description": "حفظ كل الملفات المفتوحة",
+          "linkWebsite": ""
+        },
+        {
+          "titleCard": "Control + Shift + N",
+          "description": "إنشاء مشروع جديد",
+          "linkWebsite": ""
+        },
+        {
+          "titleCard": "Control + M, Ctrl + M",
+          "description": "توسيع أو تقليص الكود",
+          "linkWebsite": ""
+        },
+        {
+          "titleCard": "Control + K, Control + C",
+          "description": "تعليق الأسطر المحددة",
+          "linkWebsite": ""
+        },
+        {
+          "titleCard": "Control + K, Control + U",
+          "description": "إلغاء تعليق الأسطر المحددة",
+          "linkWebsite": ""
+        },
+        {
+          "titleCard": "Control + R, Control + R",
+          "description": "إعادة ترتيب الأسطر",
+          "linkWebsite": ""
+        },
+        {
+          "titleCard": "Control + Shift + L",
+          "description": "حذف السطر الحالي أو الأسطر المحددة",
+          "linkWebsite": ""
+        },
+        {
+          "titleCard": "Control + E, Control + F",
+          "description": "البحث في الملف الحالي",
+          "linkWebsite": ""
+        },
+        {
+          "titleCard": "Control + K, Control + D",
+          "description": "تنسيق المستند",
+          "linkWebsite": ""
+        },
+        {
+          "titleCard": "Control + Shift + E",
+          "description": "فتح مستعرض الحلول",
+          "linkWebsite": ""
+        },
+        {
+          "titleCard": "F8",
+          "description": "الانتقال إلى العنصر التالي في قائمة الأخطاء",
+          "linkWebsite": ""
+        },
+        {
+          "titleCard": "Shift + F8",
+          "description": "الانتقال إلى العنصر السابق في قائمة الأخطاء",
+          "linkWebsite": ""
+        },
+        {
+          "titleCard": "Control + Shift + P",
+          "description": "فتح لوحة الأوامر",
+          "linkWebsite": ""
+        },
+        {
+          "titleCard": "Alt + Shift + F10",
+          "description": "فتح قائمة الأدوات",
+          "linkWebsite": ""
+        },
+        {
+          "titleCard": "Control + Shift + T",
+          "description": "إعادة فتح آخر ملف مغلق",
+          "linkWebsite": ""
+        },
+        {
+          "titleCard": "Control + K, Control + S",
+          "description": "فتح نافذة اختصارات لوحة المفاتيح",
+          "linkWebsite": ""
+        },
+        {
+          "titleCard": "Control + Shift + U",
+          "description": "تحويل النص المحدد إلى حالة أحرف كبيرة",
+          "linkWebsite": ""
+        },
+        {
+          "titleCard": "Control + U",
+          "description": "تحويل النص المحدد إلى حالة أحرف صغيرة",
+          "linkWebsite": ""
+        }
+      ]
+    },    
+    {
+      "titlePage": "احجام الاجهزه",
+      "cards": [
+        {
+          "titleCard": "@media screen and (max-width: 320px) {}",
+          "description": "شاشات صغيرة جدًا (أقل من 320px)",
+          "linkWebsite": ""
+        },
+        {
+          "titleCard": "@media screen and (min-width: 320px) and (max-width: 360px) {}",
+          "description": "شاشات هواتف صغيرة",
+          "linkWebsite": ""
+        },
+        {
+          "titleCard": "@media screen and (min-width: 360px) and (max-width: 414px) {}",
+          "description": "شاشات هواتف ذكية متوسطة",
+          "linkWebsite": ""
+        },
+        {
+          "titleCard": "@media screen and (min-width: 414px) and (max-width: 480px) {}",
+          "description": "شاشات هواتف كبيرة",
+          "linkWebsite": ""
+        },
+        {
+          "titleCard": "@media screen and (min-width: 481px) and (max-width: 600px) {}",
+          "description": "تابلتات صغيرة",
+          "linkWebsite": ""
+        },
+        {
+          "titleCard": "@media screen and (min-width: 601px) and (max-width: 768px) {}",
+          "description": "تابلتات قياسية",
+          "linkWebsite": ""
+        },
+        {
+          "titleCard": "@media screen and (min-width: 769px) and (max-width: 1024px) {}",
+          "description": "تابلتات كبيرة وكمبيوترات صغيرة",
+          "linkWebsite": ""
+        },
+        {
+          "titleCard": "@media screen and (min-width: 1025px) and (max-width: 1280px) {}",
+          "description": "شاشات الكمبيوتر الصغيرة",
+          "linkWebsite": ""
+        },
+        {
+          "titleCard": "@media screen and (min-width: 1281px) and (max-width: 1440px) {}",
+          "description": "شاشات الكمبيوتر المتوسطة",
+          "linkWebsite": ""
+        },
+        {
+          "titleCard": "@media screen and (min-width: 1441px) and (max-width: 1920px) {}",
+          "description": "شاشات الكمبيوتر الكبيرة",
+          "linkWebsite": ""
+        },
+        {
+          "titleCard": "@media screen and (min-width: 1921px) {}",
+          "description": "شاشات العرض الكبيرة جدًا",
+          "linkWebsite": ""
+        }
+      ]
+    },    
+    {
+      "titlePage": "مواقع مساعده",
+      "cards": [
+        {
+          "titleCard": "Font Awesome Cdnjs",
+          "description": "نحضر اخر رقم من Version و نقوم بوضعه في Link",
+          "linkWebsite": "https://cdnjs.com/"
+        },
+        {
+          "titleCard": "Poppins Font",
+          "description": "موقع لاحضار احجام الخطوط",
+          "linkWebsite": "https://fonts.google.com/"
+        },
+        {
+          "titleCard": "Font Awesome",
+          "description": "يقوم باحضار ال Icons",
+          "linkWebsite": "https://fontawesome.com/"
+        },
+        {
+          "titleCard": "Chatgpt",
+          "description": "موقع ذكاء اصطناعي مساعد",
+          "linkWebsite": "https://chatgpt.com/"
+        },
+        {
+          "titleCard": "Colorhunt",
+          "description": "موقع لاحضار الالوان لتزيين الموقع الخاص بي",
+          "linkWebsite": "https://colorhunt.co/"
+        },
+        {
+          "titleCard": "Dribbble",
+          "description": "موقع لإحضار مواقع ال UI/UX",
+          "linkWebsite": "https://dribbble.com/"
+        },
+        {
+          "titleCard": "Freepik",
+          "description": "موقع لاحضار صور المشاريع",
+          "linkWebsite": "https://www.freepik.com/"
+        },
+        {
+          "titleCard": "Pngegg",
+          "description": "بيجيب صور من غير خلفيه",
+          "linkWebsite": "https://www.pngegg.com/"
+        },
+        {
+          "titleCard": "Uiverse",
+          "description": "بيديني تصميمات Css جاهزه",
+          "linkWebsite": "https://uiverse.io/"
+        },
+        {
+          "titleCard": "Bootstrap",
+          "description": "بيديني اكواد Bootstrap جاهزه",
+          "linkWebsite": "https://getbootstrap.com/"
+        },
+        {
+          "titleCard": "Shapedivider",
+          "description": "بتعمل تصميم حلزوني يوضع في واجهه الموقع",
+          "linkWebsite": "https://www.shapedivider.app/"
+        },
+        {
+          "titleCard": "frontend mentor",
+          "description": "موقع لاحضار مشاريع frontend",
+          "linkWebsite": "https://www.frontendmentor.io/"
+        },
+        {
+          "titleCard": "github",
+          "description": "موقع لحفظ المشاريع",
+          "linkWebsite": "https://github.com/"
+        },
+        {
+          "titleCard": "CodePen",
+          "description": "موقع لتجربة الأكواد ومشاركة المشاريع البرمجية",
+          "linkWebsite": "https://codepen.io/"
+        },
+        {
+          "titleCard": "JSFiddle",
+          "description": "موقع لتجربة الأكواد ومشاركة الملاحظات البرمجية",
+          "linkWebsite": "https://jsfiddle.net/"
+        },
+        {
+          "titleCard": "W3Schools",
+          "description": "موقع تعليمي يوفر دروسًا وشروحات حول HTML، CSS، JavaScript، وغيرهم",
+          "linkWebsite": "https://www.w3schools.com/"
+        },
+        {
+          "titleCard": "Can I use",
+          "description": "موقع للتحقق من دعم المتصفحات لمزايا الويب المختلفة",
+          "linkWebsite": "https://caniuse.com/"
+        },
+        {
+          "titleCard": "CSS-Tricks",
+          "description": "موقع يحتوي على مقالات ودروس حول تقنيات CSS وتطوير الويب",
+          "linkWebsite": "https://css-tricks.com/"
+        },
+        {
+          "titleCard": "Awwwards",
+          "description": "موقع لعرض أفضل تصميمات الويب وتحفيز الإبداع",
+          "linkWebsite": "https://www.awwwards.com/"
+        },
+        {
+          "titleCard": "Figma",
+          "description": "أداة تصميم واجهات المستخدم وتعاون الفرق في التصميم",
+          "linkWebsite": "https://www.figma.com/"
+        },
+        {
+          "titleCard": "Webflow",
+          "description": "أداة لتصميم وبناء مواقع الويب بدون الحاجة إلى كتابة أكواد",
+          "linkWebsite": "https://webflow.com/"
+        },
+        {
+          "titleCard": "LottieFiles",
+          "description": "مكتبة للرسوم المتحركة بصيغة Lottie يمكن استخدامها في الويب والموبايل",
+          "linkWebsite": "https://lottiefiles.com/"
+        },
+        {
+          "titleCard": "Animista",
+          "description": "موقع لتصميم وتجربة تأثيرات الرسوم المتحركة باستخدام CSS",
+          "linkWebsite": "https://animista.net/"
+        },
+        {
+          "titleCard": "HeroIcons",
+          "description": "موقع يوفر أيقونات SVG مجانية للتصميم",
+          "linkWebsite": "https://heroicons.com/"
+        }
+      ]
+    }    
+  ]
+}

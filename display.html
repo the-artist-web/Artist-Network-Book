@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl" data-theme="light">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <!-- favicon -->
+        <link rel="icon" href="./src/assets/image/favicon.png"/>
+        <!-- meta tags -->
+        <title>كتابي | عرض اللغات</title>
+        <meta title="title" content="كتابي"/>
+        <meta title="descrition" content="مرحبًا بكم في 'Book Me'، منصتي التي تعرض خبرتي في تطوير الواجهة الأمامية (Frontend). 
+        تم بناء الموقع باستخدام تقنيات حديثة تشمل HTML، CSS، Bootstrap، JavaScript، OOP، TypeScript، JSON، API، Vue.js، React.js، 
+        Angular، Git، وGitHub. يقدم الموقع تصميمًا متجاوبًا وجذابًا، مع أداء محسّن لضمان تجربة مستخدم سلسة وسريعة. استمتعوا بتصفح
+        الموقع واكتشاف جمال وبساطة البرمجة المتقدمة"/>
+        <!-- google font -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap" 
+        rel="stylesheet">
+        <!-- custom cdnjs link -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" 
+        integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" 
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+        <!-- custom css link -->
+        <link rel="stylesheet" href="./src/assets/css/styles.css">
+    </head>
+    <body>
+        <!-- #OVERFLOW -->
+        <div class="overflow" data-overflow></div>
+
+        <!-- #LOADING PAGE -->
+        <div class="loading-page" data-loading-page>
+            <i class="fa-solid fa-book icon-book"></i>
+            <h1 class="title-loading">Book Me</h1>
+        </div>
+
+        <!-- #HEADER -->
+        <header class="header" data-header>
+            <a href="index.html" class="logo logo-mobile" data-logo>
+                <img src="./src/assets/image/favicon.png" alt="logo" loading="lazy" class="img-logo img-cover">
+            </a>
+
+            <nav class="navbar">
+                <ul class="navbar-list">
+                    <li class="navbar-item">
+                        <a href="index.html" class="navbar-link">الصفحه الرئيسيه</a>
+                    </li>
+
+                    <li class="navbar-item">
+                        <a href="#" class="navbar-link active">اللغات <i class="fa-solid fa-angle-down"></i></a>
+
+                        <ul class="back-drob-down langs">
+                            <li class="back-drob-item  border-bottom">
+                                <a href="display.html?lang=HTML" class="back-drob-link">HTML</a>
+                                <i class="fa-brands fa-html5"></i>
+                            </li>
+                            
+                            <li class="back-drob-item  border-bottom">
+                                <a href="display.html?lang=CSS" class="back-drob-link">CSS</a>
+                                <i class="fa-brands fa-css3-alt"></i>
+                            </li>
+                            
+                            <li class="back-drob-item  border-bottom">
+                                <a href="display.html?lang=Bootstrap" class="back-drob-link">Bootstrap</a>
+                                <i class="fa-brands fa-bootstrap"></i>
+                            </li>
+                            
+                            <li class="back-drob-item  border-bottom">
+                                <a href="display.html?lang=JavaScript" class="back-drob-link">JavaScript</a>
+                                <i class="fa-brands fa-js"></i>
+                            </li>
+                            
+                            <li class="back-drob-item  border-bottom">
+                                <a href="display.html?lang=OOP" class="back-drob-link">OOP</a>
+                                <i class="fa-solid fa-code"></i>
+                            </li>
+                            
+                            <li class="back-drob-item  border-bottom">
+                                <a href="display.html?lang=TypeScript" class="back-drob-link">TypeScript</a>
+                                <i class="fa-brands fa-js"></i>
+                            </li>
+                            
+                            <li class="back-drob-item  border-bottom">
+                                <a href="display.html?lang=Vue.js" class="back-drob-link">Vue.js</a>
+                                <i class="fa-brands fa-vuejs"></i>
+                            </li>
+                            
+                            <li class="back-drob-item  border-bottom">
+                                <a href="display.html?lang=React.js" class="back-drob-link">React.js</a>
+                                <i class="fa-brands fa-react"></i>
+                            </li>
+                            
+                            <li class="back-drob-item">
+                                <a href="display.html?lang=Angular" class="back-drob-link">Angular</a>
+                                <i class="fa-brands fa-angular"></i>
+                            </li>
+                            
+                            <li class="back-drob-item">
+                                <a href="display.html?lang=Gits" class="back-drob-link">Git</a>
+                                <i class="fa-brands fa-git-alt"></i>
+                            </li>
+                            
+                            <li class="back-drob-item">
+                                <a href="display.html?lang=Github" class="back-drob-link">Github</a>
+                                <i class="fa-brands fa-github"></i>
+                            </li>
+                        </ul>
+                    </li>
+
+                    <li class="navbar-item">
+                        <a href="#" class="navbar-link">ادوات مساعده <i class="fa-solid fa-angle-down"></i></a>
+
+                        <ul class="back-drob-down">
+                            <li class="back-drob-item border-bottom">
+                                <i class="fa-regular fa-file-lines"></i>
+                                <a href="side-pages.html?Auxiliary-tools=اسماء الصفحات الرئيسيه" class="back-drob-link">اسماء الصفحات الرئيسيه</a>
+                            </li>
+                            
+                            <li class="back-drob-item border-bottom">
+                                <i class="fa-solid fa-laptop-code"></i>
+                                <a href="side-pages.html?Auxiliary-tools=اختصارات فاجوال ستوديو" class="back-drob-link">اختصارات فاجوال ستوديو</a>
+                            </li>
+                            
+                            <li class="back-drob-item border-bottom">
+                                <i class="fa-solid fa-mobile"></i>
+                                <a href="side-pages.html?Auxiliary-tools=احجام الاجهزه" class="back-drob-link">احجام الاجهزه</a>
+                            </li>
+                            
+                            <li class="back-drob-item">
+                                <i class="fa-solid fa-globe"></i>
+                                <a href="side-pages.html?Auxiliary-tools=مواقع مساعده" class="back-drob-link">مواقع مساعده</a>
+                            </li>
+                        </ul>
+                    </li>
+                    
+                    <li class="navbar-item">
+                        <a href="about.html" class="navbar-link">من انا</a>
+                    </li>
+                </ul>
+
+                <a href="index.html" class="logo logo-desctop">
+                    <img src="./src/assets/image/favicon.png" alt="logo" loading="lazy" class="img-logo img-cover">
+                </a>
+
+                <div class="form" data-form>
+                    <div class="input-box">
+                        <button class="btn-icon-search"><i class="fa-solid fa-magnifying-glass"></i></button>
+                        <input class="search" type="text" placeholder="...بحث في اللغات" dir="auto" data-search-pages>
+                        <button class="xmark" data-hidden-serach><i class="fa-solid fa-xmark"></i></button>
+                    </div>
+                </div>
+            </nav>
+
+            <div class="header-icons" data-header-icons>
+                <button class="icon-item icon-glass" data-show-search><i class="fa-solid fa-magnifying-glass"></i></button>
+
+                <button class="icon-item icon-burger" data-burger><i class="fa-solid fa-burger"></i></button>
+
+                <a href="side-pages.html?Auxiliary-tools=مواقع مساعده" class="btn-primary">مواقع مساعدة</a>
+            </div>
+        </header>
+
+        <!-- #ASIDE -->
+        <aside class="asidebar" data-aside>
+            <button class="close-aside" data-close-aside><i class="fa-solid fa-xmark"></i></button>
+
+            <ul class="asidebar-list">
+                <li class="asidebar-item">
+                    <a href="index.html" class="asidebar-link">الصفحه الرئيسيه</a>
+                </li>
+
+                <li class="asidebar-item">
+                    <a href="#" class="asidebar-link active" data-toggle-back-drop>اللغات <i class="fa-solid fa-angle-down"></i></a>
+
+                    <ul class="back-drob-down" data-back-drob-down>
+                        <li class="back-drob-item">
+                            <a href="display.html?lang=HTML" class="back-drob-link">HTML</a>
+                            <i class="fa-brands fa-html5"></i>
+                        </li>
+                        
+                        <li class="back-drob-item">
+                            <a href="display.html?lang=CSS" class="back-drob-link">CSS</a>
+                            <i class="fa-brands fa-css3-alt"></i>
+                        </li>
+                        
+                        <li class="back-drob-item">
+                            <a href="display.html?lang=Bootstrap" class="back-drob-link">Bootstrap</a>
+                            <i class="fa-brands fa-bootstrap"></i>
+                        </li>
+                        
+                        <li class="back-drob-item">
+                            <a href="display.html?lang=JavaScript" class="back-drob-link">JavaScript</a>
+                            <i class="fa-brands fa-js"></i>
+                        </li>
+                        
+                        <li class="back-drob-item">
+                            <a href="display.html?lang=OOP" class="back-drob-link">OOP</a>
+                            <i class="fa-solid fa-code"></i>
+                        </li>
+                        
+                        <li class="back-drob-item">
+                            <a href="display.html?lang=TypeScript" class="back-drob-link">TypeScript</a>
+                            <i class="fa-brands fa-js"></i>
+                        </li>
+                        
+                        <li class="back-drob-item">
+                            <a href="display.html?lang=Vue.js" class="back-drob-link">Vue.js</a>
+                            <i class="fa-brands fa-vuejs"></i>
+                        </li>
+                        
+                        <li class="back-drob-item">
+                            <a href="display.html?lang=React.js" class="back-drob-link">React.js</a>
+                            <i class="fa-brands fa-react"></i>
+                        </li>
+                        
+                        <li class="back-drob-item">
+                            <a href="display.html?lang=Angular" class="back-drob-link">Angular</a>
+                            <i class="fa-brands fa-angular"></i>
+                        </li>
+                            
+                        <li class="back-drob-item">
+                            <a href="display.html?lang=Gits" class="back-drob-link">Git</a>
+                            <i class="fa-brands fa-git-alt"></i>
+                        </li>
+                        
+                        <li class="back-drob-item">
+                            <a href="display.html?lang=Github" class="back-drob-link">Github</a>
+                            <i class="fa-brands fa-github"></i>
+                        </li>
+                    </ul>
+                </li>
+
+                <li class="asidebar-item">
+                    <a href="#" class="asidebar-link" data-toggle-back-drop>ادوات مساعده <i class="fa-solid fa-angle-down"></i></a>
+
+                    <ul class="back-drob-down" data-back-drob-down>
+                        <li class="back-drob-item">
+                            <i class="fa-regular fa-file-lines"></i>
+                            <a href="side-pages.html?Auxiliary-tools=اسماء الصفحات الرئيسيه" class="back-drob-link">اسماء الصفحات الرئيسيه</a>
+                        </li>
+                        
+                        <li class="back-drob-item">
+                            <i class="fa-solid fa-laptop-code"></i>
+                            <a href="side-pages.html?Auxiliary-tools=اختصارات فاجوال ستوديو" class="back-drob-link">اختصارات فاجوال ستوديو</a>
+                        </li>
+                        
+                        <li class="back-drob-item">
+                            <i class="fa-solid fa-mobile"></i>
+                            <a href="side-pages.html?Auxiliary-tools=احجام الاجهزه" class="back-drob-link">احجام الاجهزه</a>
+                        </li>
+                        
+                        <li class="back-drob-item">
+                            <i class="fa-solid fa-globe"></i>
+                            <a href="side-pages.html?Auxiliary-tools=مواقع مساعده" class="back-drob-link">مواقع مساعده</a>
+                        </li>
+                    </ul>
+                </li>
+
+                <li class="asidebar-item">
+                    <a href="about.html" class="asidebar-link">من انا</a>
+                </li>
+            </ul>
+        </aside>
+
+        <main>
+            <article class="container">
+                <!-- #CARD LIST -->
+                <section class="card-display section" data-card-display></section>
+            </article>
+        </main>
+
+        <!-- #FOOTER -->
+        <footer class="footer" data-footer>
+            <p class="copyright">&copy; كتابي 2024</p>
+
+            <div class="social-list">
+                <a target="_blank" href="https://www.linkedin.com/in/mohamed-yasser-2706252aa/">
+                    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+                </a>
+
+                <a target="_blank" href="https://wa.me/message/YEX6SYAH54GFC1">
+                    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+                </a>
+
+                <a target="_blank" href="https://www.instagram.com/the_artists_web">
+                    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+                </a>
+
+                <a target="_blank" href="https://www.youtube.com/@theartistweb">
+                    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+                </a>
+            </div>
+        </footer>
+        
+        <!-- custom js link -->
+        <script src="./src/component.js"></script>
+        <script src="./src/display.js"></script>
+    </body>
+</html>
