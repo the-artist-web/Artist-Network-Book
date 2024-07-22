@@ -22,6 +22,7 @@ const form: any = document.querySelector("[data-form]");
 const hiddenSerach: any = document.querySelector("[data-hidden-serach]");
 const headerIcons: any = document.querySelector("[data-header-icons]");
 const showSearch: any = document.querySelector("[data-show-search]");
+const focusSearch: any = document.querySelector("[data-focus-search-mobile]");
 
 // scroll header
 window.addEventListener("scroll", () => { if (scrollY >= 100) { header.classList.add("active"); } else { header.classList.remove("active"); } });
@@ -31,6 +32,7 @@ showSearch.addEventListener("click", () => {
     form.classList.add("active");
     logo.style.display = "none";
     headerIcons.style.display = "none";
+    focusSearch.focus();
 });
 
 hiddenSerach.addEventListener("click", () => {

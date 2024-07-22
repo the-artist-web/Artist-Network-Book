@@ -18,10 +18,10 @@ window.addEventListener("load", function () {
 var header = document.querySelector("[data-header]");
 var logo = document.querySelector("[data-logo]");
 var form = document.querySelector("[data-form]");
-var formItem = document.querySelectorAll(".form-item");
 var hiddenSerach = document.querySelector("[data-hidden-serach]");
 var headerIcons = document.querySelector("[data-header-icons]");
 var showSearch = document.querySelector("[data-show-search]");
+var focusSearch = document.querySelector("[data-focus-search-mobile]");
 // scroll header
 window.addEventListener("scroll", function () { if (scrollY >= 100) {
     header.classList.add("active");
@@ -34,6 +34,7 @@ showSearch.addEventListener("click", function () {
     form.classList.add("active");
     logo.style.display = "none";
     headerIcons.style.display = "none";
+    focusSearch.focus();
 });
 hiddenSerach.addEventListener("click", function () {
     form.classList.remove("active");

@@ -41,11 +41,12 @@ var btnIconSearch = document.querySelector("[data-btn-icon-search]");
 var searchHomePage = document.querySelector("[data-search-home-page]");
 var fromList = document.querySelector("[data-from-list]");
 var formLang = document.querySelectorAll("[data-form-lang]");
+var formItem = document.querySelectorAll("[data-form-item]");
 searchHomePage.addEventListener("keyup", function () {
     for (var i = 0; i < formLang.length; i++) {
-        if (formLang[i].innerHTML.toLowerCase().indexOf(searchHomePage.value.toLowerCase()) === 0) {
-            fromList.classList.remove("active");
+        if (formLang[i].innerHTML.toLowerCase().indexOf(searchHomePage.value.toLowerCase()) >= 0) {
             formItem[i].style.display = "";
+            fromList.classList.remove("active");
         }
         else {
             formItem[i].style.display = "none";
@@ -79,7 +80,7 @@ function fetshData() {
                     data = _a.sent();
                     cardList.innerHTML = "";
                     data.Homepage.forEach(function (ele) {
-                        cardList.innerHTML += "\n        <li class=\"card\">\n            <img src=\"".concat(ele.image, "\" alt=\"html\" class=\"card-img img-desctop img-cover\">\n\n            <div class=\"card-body\">\n                <h2 class=\"title-content\">").concat(ele.titleCard, "</h2>\n\n                <p class=\"toggle-text\" data-toggle-text>\n                    ").concat(ele.description, "\n                </p>\n\n                <p class=\"lang-circle\">\n                    ").concat(ele.lang, "\n                </p>\n            </div>\n        </li>\n        ");
+                        cardList.innerHTML += "\n        <li class=\"card\">\n            <img src=\"".concat(ele.image, "\" alt=\"html\" class=\"card-img img-desctop img-cover\">\n\n            <div class=\"card-body\">\n                <h2 class=\"title-content\">").concat(ele.titleCard, "</h2>\n\n                <p class=\"toggle-text\">\n                    ").concat(ele.description, "\n                </p>\n\n                <p class=\"lang-circle\">\n                    ").concat(ele.lang, "\n                </p>\n            </div>\n        </li>\n        ");
                     });
                     return [2 /*return*/];
             }
