@@ -8,6 +8,9 @@ var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, ge
         step((generator = generator.apply(thisArg, _arguments || [])).next());
     });
 };
+/**
+ * search home page
+ */
 const btnIconSearch = document.querySelector("[data-btn-icon-search]");
 const searchHomePage = document.querySelector("[data-search-home-page]");
 const fromList = document.querySelector("[data-from-list]");
@@ -31,6 +34,9 @@ btnIconSearch.addEventListener("click", () => { if (searchHomePage.value)
     window.location = `/display.html?lang=${searchHomePage.value}`; });
 searchHomePage.addEventListener("keyup", (e) => { if (e.key === "Enter")
     btnIconSearch.click(); });
+/**
+ * push cards in card list
+ */
 const cardList = document.querySelector("[data-card-list]");
 cardList.innerHTML = `
 <li class="card-skeleton">
