@@ -2880,7 +2880,7 @@
           },
           {
             "image": "./src/assets/image/javaScript ( 5 ).png",
-            "titleCard": "fetch('file.json')<br> .then(response => response.json())<br> .then(data => {<br> console.log(data);<br> });",
+            "titleCard": "fetch('data.json')<br> .then(response => {<br> if (!response.ok) {<br> throw new Error('Network response was not ok ' + response.statusText);<br> };<br> return response.json();<br> })<br> .then(data => {<br><br> })<br> .catch(error => {<br> console.error('Fetch error:', error);<br> });",
             "description": " الطريقه الي بستدعي بيها ملف json و ال data دي بيكون فيها كل البيانات الي في الملف",
             "lang": "<i class='fa-solid fa-circle circle-yellow'></i> JavaScript"
           },
@@ -3008,6 +3008,48 @@
             "image": "./src/assets/image/javaScript ( 5 ).png",
             "titleCard": "/(\bmohamed|mohamed\b)/ig.test(osama)",
             "description": "هنا بقوله دورلي علي كلمه osama في /(\bmohamed|mohamed\b)/ig",
+            "lang": "<i class='fa-solid fa-circle circle-yellow'></i> JavaScript"
+          },
+          {
+            "image": "./src/assets/image/javaScript ( 5 ).png",
+            "titleCard": "JSON.parse();",
+            "description": "بيحول ال json object الي object java script طبيعي",
+            "lang": "<i class='fa-solid fa-circle circle-yellow'></i> JavaScript"
+          },
+          {
+            "image": "./src/assets/image/javaScript ( 5 ).png",
+            "titleCard": "JSON.stringify();",
+            "description": "بيحول ال object java script الي json object string",
+            "lang": "<i class='fa-solid fa-circle circle-yellow'></i> JavaScript"
+          },
+          {
+            "image": "./src/assets/image/javaScript ( 5 ).png",
+            "titleCard": "Synchronous",
+            "description": "دي بتمشي الاموامر بالترتيب غي ال asynchronous",
+            "lang": "<i class='fa-solid fa-circle circle-yellow'></i> JavaScript"
+          },
+          {
+            "image": "./src/assets/image/javaScript ( 5 ).png",
+            "titleCard": "Asynchronous",
+            "description": "دي بتمشي الاوامر عادي مش بالترتيب",
+            "lang": "<i class='fa-solid fa-circle circle-yellow'></i> JavaScript"
+          },
+          {
+            "image": "./src/assets/image/javaScript ( 5 ).png",
+            "titleCard": ".then(data => {})",
+            "description": "احنا نقدر نستخدم الف then في fetch واحده بس",
+            "lang": "<i class='fa-solid fa-circle circle-yellow'></i> JavaScript"
+          },
+          {
+            "image": "./src/assets/image/javaScript ( 5 ).png",
+            "titleCard": "sync function fetshData() {};",
+            "description": "دي ال Synchronous لازم function الي قبلها تشتغل علشان function الحاليه تشتغل علي خلاف Asynchronous",
+            "lang": "<i class='fa-solid fa-circle circle-yellow'></i> JavaScript"
+          },
+          {
+            "image": "./src/assets/image/javaScript ( 5 ).png",
+            "titleCard": "مذا سيحدس اذا طبعت data في console",
+            "description": "سيقوم بطباعه هيكل json في console",
             "lang": "<i class='fa-solid fa-circle circle-yellow'></i> JavaScript"
           }
       ]
