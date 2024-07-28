@@ -3051,6 +3051,12 @@
             "titleCard": "مذا سيحدس اذا طبعت data في console",
             "description": "سيقوم بطباعه هيكل json في console",
             "lang": "<i class='fa-solid fa-circle circle-yellow'></i> JavaScript"
+          },
+          {
+            "image": "./src/assets/image/javaScript ( 5 ).png",
+            "titleCard": "const anime = data[Math.floor(Math.random() * data.length)];",
+            "description": "مسؤله عن اختيار عنصر عشوائي من ملفات json",
+            "lang": "<i class='fa-solid fa-circle circle-yellow'></i> JavaScript"
           }
       ]
     },
