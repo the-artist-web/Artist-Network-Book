@@ -3057,6 +3057,24 @@
             "titleCard": "const anime = data[Math.floor(Math.random() * data.length)];",
             "description": "مسؤله عن اختيار عنصر عشوائي من ملفات json",
             "lang": "<i class='fa-solid fa-circle circle-yellow'></i> JavaScript"
+          },
+          {
+            "image": "./src/assets/image/javaScript ( 5 ).png",
+            "titleCard": "let query: any = searchValue.value.toLowerCase();<br> searchbar.innerHTML = '';<br> if (searchValue.value < 2) return;<br> const filter: any = data.filter((ele: any) => ele.title.toLowerCase().includes(query));",
+            "description": "تستخدم في البحث في ملف json او في array او عن حروف معينه",
+            "lang": "<i class='fa-solid fa-circle circle-yellow'></i> JavaScript"
+          },
+          {
+            "image": "./src/assets/image/javaScript ( 5 ).png",
+            "titleCard": "function shuffleArray(array: any[]): any[] {<br> for (let i = array.length - 1; i > 0; i--) {<br> const j = Math.floor(Math.random() * (i + 1));<br> [array[i], array[j]] = [array[j], array[i]];<br> };<br> return array;<br> };<br> let shuffleData: any = shuffleArray(data);",
+            "description": "يستخدم في توزيع العناصر بشكل عشوائي في ملف json او array",
+            "lang": "<i class='fa-solid fa-circle circle-yellow'></i> JavaScript"
+          },
+          {
+            "image": "./src/assets/image/javaScript ( 5 ).png",
+            "titleCard": "let itemsPerPage: number = 28;<br> const urlParam: URLSearchParams = new URLSearchParams(window.location.search);<br> const currentPage: any = parseInt(urlParam.get('page') || '1', 10);<br> const tottalItems: any = shuffleData.length;<br> const startIndex: any = (currentPage - 1) * itemsPerPage;<br> const endIndex: number = startIndex + itemsPerPage;<br> const pageItems: any = shuffleData.slice(startIndex, endIndex);<br><br> const totalPage: any = Math.ceil(tottalItems / itemsPerPage);<br> let paginationHTML: string = '';<br> for (let i: number = 1; i <= totalPage; i++) {<br> paginationHTML += `&lt;a href='?page=${i}' class='btn-pagination ${i === currentPage ? 'active' : ''}'>${i}&lt;/a>`;<br> };<br> pagination_list.innerHTML = `${paginationHTML}`;",
+            "description": "تستخدم في تقسيم العناصر في ملف json الي صفحات في صفحه واحده باستخدام url مثل ?page=1",
+            "lang": "<i class='fa-solid fa-circle circle-yellow'></i> JavaScript"
           }
       ]
     },
