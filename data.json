@@ -3084,7 +3084,7 @@
           },
           {
             "image": "./src/assets/image/javaScript ( 5 ).png",
-            "titleCard": "const itemsPerPage: number = 60;<br> const totalPage: any = Math.ceil(totalItems / itemsPerPage);<br> index age.innerHTML = totalPage;<br> age.addEventListener("keydown", (e: any) => { if (e.key === "Enter") window.location.href = `./recipes.html?page=${inputPage.value}` });",
+            "titleCard": "const itemsPerPage: number = 60;<br> const totalPage: any = Math.ceil(totalItems / itemsPerPage);<br> index age.innerHTML = totalPage;<br> age.addEventListener('keydown', (e: any) => { if (e.key === 'Enter') window.location.href = `./recipes.html?page=${inputPage.value}` });",
             "description": "تقوم باستخدام input للتنقل بين الصفحات",
             "lang": "<i class='fa-solid fa-circle circle-yellow'></i> JavaScript"
           }
