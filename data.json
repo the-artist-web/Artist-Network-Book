@@ -3090,8 +3090,14 @@
           },
           {
             "image": "./src/assets/image/javaScript ( 5 ).png",
-            "titleCard": "const currentUrl = new URL(window.location.href);<br> currentUrl.searchParams.set('page', 'newPageValue');<br> window.history.pushState({}, '', currentUrl);",
+            "titleCard": "const currentUrl = new URL(window.location.href);<br> currentUrl.searchParams.set('page', input_page.value.toLowerCase());<br> window.history.pushState({}, '', currentUrl.toString());<br> window.location.href = currentUrl.toString();",
             "description": "تقوم بتغيير ال url بدون حذف بقيت ال url",
+            "lang": "<i class='fa-solid fa-circle circle-yellow'></i> JavaScript"
+          },
+          {
+            "image": "./src/assets/image/javaScript ( 5 ).png",
+            "titleCard": "function savePost(postId: any) {<br> try {<br> let likedPosts = JSON.parse(localStorage.getItem('likedPosts') || '[]');<br> if (!likedPosts.includes(postId)) {<br> likedPosts.push(postId);<br> localStorage.setItem('likedPosts', JSON.stringify(likedPosts));<br> console.log(postId);<br> };<br> } catch (error) {<br> console.error('Error saving post:', error);<br> };<br> }; savePost('post1');<br> function removePost(postId: any) {<br> try {<br> let likedPosts = JSON.parse(localStorage.getItem('likedPosts') || '[]');<br> likedPosts = likedPosts.filter((id: any) => id !== postId);<br> localStorage.setItem('likedPosts', JSON.stringify(likedPosts));<br> console.log(postId);<br> } catch (error) {<br> console.error('Error removing post:', error);<br> };<br> }; removePost('post1');<br> let postsAdd: any = 1;<br> let postsRemove: any = 1;<br> &lt;button onclick='posts${postsAdd++}'>&lt;/button><br> &lt;button onclick='posts${postsRemove++}'>&lt;/button>",
+            "description": "تستخدم في حفظ العناصر في المفضله",
             "lang": "<i class='fa-solid fa-circle circle-yellow'></i> JavaScript"
           }
       ]
