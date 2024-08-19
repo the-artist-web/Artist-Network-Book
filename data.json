@@ -3099,6 +3099,12 @@
             "titleCard": "function savePost(postId: any) {<br> try {<br> let likedPosts = JSON.parse(localStorage.getItem('likedPosts') || '[]');<br> if (!likedPosts.includes(postId)) {<br> likedPosts.push(postId);<br> localStorage.setItem('likedPosts', JSON.stringify(likedPosts));<br> console.log(postId);<br> };<br> } catch (error) {<br> console.error('Error saving post:', error);<br> };<br> }; savePost('post1');<br> function removePost(postId: any) {<br> try {<br> let likedPosts = JSON.parse(localStorage.getItem('likedPosts') || '[]');<br> likedPosts = likedPosts.filter((id: any) => id !== postId);<br> localStorage.setItem('likedPosts', JSON.stringify(likedPosts));<br> console.log(postId);<br> } catch (error) {<br> console.error('Error removing post:', error);<br> };<br> }; removePost('post1');<br> let postsAdd: any = 1;<br> let postsRemove: any = 1;<br> &lt;button onclick='posts${postsAdd++}'>&lt;/button><br> &lt;button onclick='posts${postsRemove++}'>&lt;/button>",
             "description": "تستخدم في حفظ العناصر في المفضله",
             "lang": "<i class='fa-solid fa-circle circle-yellow'></i> JavaScript"
+          },
+          {
+            "image": "./src/assets/image/javaScript ( 5 ).png",
+            "titleCard": "const buttons = document.querySelectorAll('[data-save], [data-unsaved]');<br> for (let i = 0; i < buttons.length; i += 2) {<br> const saveButton: any = buttons[i];<br> const unsaveButton: any = buttons[i + 1];<br> const postTitle = saveButton.getAttribute('onclick').match(/savePost\\('(.+)'\\)/)[1]; <br> const likedPosts = JSON.parse(localStorage.getItem('likedPosts') || '[]');<br> if (likedPosts.includes(postTitle)) {<br> saveButton.classList.add('active');<br> unsaveButton.classList.add('active');<br> };<br> saveButton.addEventListener('click', () => {<br> savePost(postTitle);<br> saveButton.classList.add('active');<br> unsaveButton.classList.add('active');<br> });<br> unsaveButton.addEventListener('click', () => {<br> removePost(postTitle);<br> saveButton.classList.remove('active');<br> unsaveButton.classList.remove('active');<br> });<br> };",
+            "description": "تستخدم في حفظ شكل الزرار بعد تغير الصفحه و التفرقه بين العناصر",
+            "lang": "<i class='fa-solid fa-circle circle-yellow'></i> JavaScript"
           }
       ]
     },
